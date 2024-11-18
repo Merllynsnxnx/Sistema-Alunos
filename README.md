@@ -36,7 +36,7 @@ Bem-vindo ao **Sistema de Notas Escolares**, uma aplicação desenvolvida para g
 ### Passos:
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/Merllynsnxnx/Sistema-Alunos.git>
    ```
 2. Importe o arquivo `database.sql` para o MySQL para criar as tabelas necessárias.  
 3. Configure as credenciais do banco no arquivo `class/Login.php`:
