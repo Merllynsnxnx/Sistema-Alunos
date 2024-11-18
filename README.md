@@ -1,4 +1,3 @@
-### **README.md**  
 
 # Sistema de Notas Escolares  
 
@@ -84,11 +83,10 @@ Sinta-se à vontade para contribuir com o projeto enviando um *pull request* ou 
 Desenvolvido por **[JOAQUIM FELIPE]**.  
 
 
-** IMAGENS **
+--- IMAGENS ---
 ![Captura de tela 2024-11-15 232712](https://github.com/user-attachments/assets/4c95b80a-cf71-47a3-a8c5-efee55acc73a)
 ![Captura de tela 2024-11-15 232721](https://github.com/user-attachments/assets/8ce47125-876f-46af-b889-e7283834dc64)
 ![Captura de tela 2024-11-15 232747](https://github.com/user-attachments/assets/c07c9ac7-b43f-46c5-96d6-5d8d8c731ee5)
-
 ![Captura de tela 2024-11-15 232810](https://github.com/user-attachments/assets/78c8de73-79b9-4446-85e4-84f5acd1f2f2)
 ![Captura de tela 2024-11-15 232940](https://github.com/user-attachments/assets/3f2b3b35-113f-4ab1-bc20-8745271a53d6)
 ![Captura de tela 2024-11-15 233106](https://github.com/user-attachments/assets/0a4040d9-3a9c-463b-ba4f-94c2452f5b1d)
